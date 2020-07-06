@@ -1,0 +1,24 @@
+.container{
+  margin-bottom: 100px;
+}
+.slide-bg{
+  background-color: #feeae9;
+}
+
+.carousel-item{
+  padding: 20px 40px;
+}
+
+.price{
+  color: #ff136f;
+  padding-bottom: 10px;
+}
+
+.buy-now{
+  padding: 9px 25px;
+  text-decoration: none;
+  color: White;
+  font-weight: bold;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  border-radius: 8px;
+}
