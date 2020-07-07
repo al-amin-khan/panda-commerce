@@ -23,6 +23,11 @@
   border-radius: 8px;
 }
 
+.buy-now:hover{
+  text-decoration: none;
+  color: honeydew;
+}
+
 .cat1, .cat2, .cat3{
   padding: 10px 30px;
   border-radius: 10px;
