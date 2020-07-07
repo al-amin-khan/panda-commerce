@@ -1,8 +1,10 @@
 .container{
   margin-bottom: 100px;
 }
+
 .slide-bg{
   background-color: #feeae9;
+  border-radius: 10px;
 }
 
 .carousel-item{
@@ -47,4 +49,10 @@
 
 .categories h1{
   color: white;
+}
+
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px grey;
+  border-radius: 8px;
 }
